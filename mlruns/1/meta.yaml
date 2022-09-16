@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/acreddy/Desktop/mlflow-sagemaker/Mlflow-AWS-Sagemaker-Deployment/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: my_classification_model

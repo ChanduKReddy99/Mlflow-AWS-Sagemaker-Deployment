@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acreddy/Desktop/mlflow-sagemaker/Mlflow-AWS-Sagemaker-Deployment/mlruns/1/d1dcc1245c1449b1bc8af6d199797e75/artifacts
+end_time: 1663263338451
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d1dcc1245c1449b1bc8af6d199797e75
+run_uuid: d1dcc1245c1449b1bc8af6d199797e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663263338423
+status: 3
+tags: []
+user_id: acreddy
